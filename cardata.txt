@@ -1,0 +1,8 @@
+Manufacturer Carname Color Type Price Fuelconsumption Horsepower
+Toyota Corolla Red Sedan 7000 6.0 70
+Nissan Sunny Blue Sedan 7200 6.8 68
+Ford Fiesta Green Hatchback 6800 7.1 65
+Honda Civic Red Sedan 8000 6.5 75
+Maruti Swift White Hatchback 7500 6.2 70
+Tata Nexon Silver SUV 7200 7.3 68
+Hyundai Verna Blue Sedan 7600 6.4 72
